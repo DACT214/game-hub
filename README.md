@@ -1,5 +1,5 @@
 # Game Hub
-Deployed using Vercel: https://game-hub-git-main-david-carrillos-projects-a6c64de5.vercel.app/
+Deployed using Vercel: https://game-hub-git-main-david-carrillos-projects-a6c64de5.vercel.app?_vercel_share=CJicCvirlSZG69T2HoWV8lpytKGc2RHF
 
 
 *Created by:* **David Carrillo**
